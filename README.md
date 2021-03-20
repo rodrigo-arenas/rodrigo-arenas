@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Rodrigo Arenas, a data scientist enthusiast. I'm excited by learning new things and contributing to the science.
+I'm Rodrigo Arenas, a data science enthusiast. I'm excited by learning new things and contributing to the science community.
 
 ### :rocket:About Me
 
 - 🔭 I’m currently interested in data science related projects, such as machine learning, optimization, MLOps and statistics.
-- 🤔 I’m looking for help with open source projects and researchs focused in machine learning
+- 🤔 I’m looking to help with open source projects and researchs focused in machine learning
 - :pencil: I like writing and making some tutorials on [Medium](https://rodrigo-arenas.medium.com/)
 
 
@@ -14,7 +14,6 @@ I'm Rodrigo Arenas, a data scientist enthusiast. I'm excited by learning new thi
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Docker](https://aleen42.github.io/badges/src/docker.svg)
-![Tensorflow](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![GitHub](https://aleen42.github.io/badges/src/github.svg)&nbsp;
 ![Pycharm](https://aleen42.github.io/badges/src/idea.svg)
 
@@ -22,11 +21,10 @@ I'm Rodrigo Arenas, a data scientist enthusiast. I'm excited by learning new thi
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br />
-
 <p align="center">
 <a href="https://github.com/rodrigo-arenas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-arenas&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigo-arenas&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigo-arenas&layout=compact&langs_count=6"/>
 </a>
 </p>
 <br />
