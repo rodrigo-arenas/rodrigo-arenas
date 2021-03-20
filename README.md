@@ -5,19 +5,10 @@ I'm Rodrigo Arenas, a data science enthusiast. I'm excited by learning new thing
 ### :rocket:About Me
 
 - 🔭 I’m currently interested in data science related projects, such as machine learning, optimization, MLOps and statistics.
-- 🤔 I’m looking to help with open source projects and researchs focused in machine learning
-- :pencil: I like writing and making some tutorials on [Medium](https://rodrigo-arenas.medium.com/)
+- :raised_back_of_hand: I’m looking to help with open source projects and researchs focused in machine learning. Let me a message if you think I can help you.
+- :pencil: I like writing and making some tutorials about data science on [Medium](https://rodrigo-arenas.medium.com/)
+- :computer: I'm currently working in [pyworkforce](https://github.com/rodrigo-arenas/pyworkforce) in my free time, a package for workforce management optimization.
 
-
-### 🛠 &nbsp;Prefered Languages, Tools and Frameworks
-<br />
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Docker](https://aleen42.github.io/badges/src/docker.svg)
-![GitHub](https://aleen42.github.io/badges/src/github.svg)&nbsp;
-![Pycharm](https://aleen42.github.io/badges/src/idea.svg)
-
-<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br />
