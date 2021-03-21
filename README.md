@@ -14,8 +14,8 @@ I'm Rodrigo Arenas, a data science enthusiast. I'm excited by learning new thing
 <br />
 <p align="center">
 <a href="https://github.com/rodrigo-arenas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-arenas&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigo-arenas&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigo-arenas&show_icons=true&include_all_commits=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigo-arenas&layout=compact&langs_count=6&hide_title=true"/>
 </a>
 </p>
 <br />
