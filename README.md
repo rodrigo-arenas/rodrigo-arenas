@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rodrigo Arenas, a data science. I'm excited by learning new things and contributing to the science community.
+I'm Rodrigo Arenas, a data scientist. I'm excited by learning new things and contributing to the science community.
 You can see more about me on my [website](https://rodrigo-arenas.github.io/portfolio/).
 
 ### :rocket:About Me
