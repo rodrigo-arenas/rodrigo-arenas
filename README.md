@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rodrigo Arenas, a data scientist. I'm excited by learning new things and contributing to the science community.
+I'm Rodrigo Arenas, a data scientist. I'm excited about learning new things and contributing to the science community.
 You can see more about me on my [website](https://rodrigo-arenas.github.io/portfolio/).
 
 ### :rocket:About Me
@@ -8,7 +8,7 @@ You can see more about me on my [website](https://rodrigo-arenas.github.io/portf
 - 🔭 I’m currently interested in data science-related projects, such as machine learning, optimization, MLOps and statistics.
 - :raised_back_of_hand: I’m looking to help with open source projects and research focused on machine learning. Let me a message if you think I can help you.
 - :pencil: I like writing and making some tutorials about data science on [Medium](https://rodrigo-arenas.medium.com/)
-- :computer: I'm currently working in:
+- :computer: I'm currently working on:
   - [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) a package for scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms with extra tools like callbacks, plotting, logging, etc.
   - [scikit-pipes](https://github.com/rodrigo-arenas/scikit-pipes) Scikit-Learn practical pre-defined Pipelines Hub.
   - [pyworkforce](https://github.com/rodrigo-arenas/pyworkforce) a package for workforce management optimization.
