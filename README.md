@@ -10,8 +10,9 @@ You can see more about me on my [website](https://rodrigo-arenas.github.io/portf
 - :pencil: I like writing and making some tutorials about data science on [Medium](https://rodrigo-arenas.medium.com/)
 - :computer: I'm currently working on:
   - [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) a package for scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms with extra tools like callbacks, plotting, logging, etc.
+  - [pyworkforce](https://github.com/rodrigo-arenas/pyworkforce) Standard tools for workforce management, queuing, scheduling, rostering and optimization problems..
   - [scikit-pipes](https://github.com/rodrigo-arenas/scikit-pipes) Scikit-Learn practical pre-defined Pipelines Hub.
-  - [pyworkforce](https://github.com/rodrigo-arenas/pyworkforce) a package for workforce management optimization.
+  
   
 
 
